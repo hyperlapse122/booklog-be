@@ -2,7 +2,7 @@
   "name": "booklog-be",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Joosung Park <admin@slowmotion.dev>",
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
